@@ -11,7 +11,7 @@ public class HelloWorldController {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "hello rupesh";
+		return "Rupesh Loves Sadiya";
 	}
 
 }
